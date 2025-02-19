@@ -1,7 +1,6 @@
 - 🙋🏼‍♀️ Eu sou @CarolinaPichelli !
-- 📖 Sou estudante do curso de Desenvolvimento de Sistemas AMS PTECH pela ETEC Jorge Street
+- 📖 Sou estudante do curso de Análise e Desenvolvimento de Sistemas AMS pela FATEC Antonio Russo
 - 🌱 Estudando atualmente React-Native, PostgreSQL e o uso de GIT/GITHUB 
-- 👥 Junto dos amigos, estou desenvolvendo meu projeto de TCC
-- 🧠 Desenvolvo em: Java, C#, Js, PHP e já desenvolvi aplicativos no Android Studio
+- 🧠 Desenvolvo em: Java, Js, PHP e já desenvolvi aplicativos no Android Studio
 - 👩🏼‍💻 Buscando aprender sempre novas ferramentas e fortalecer aquelas que já conheço
 - 🔗 LinkedIn: www.linkedin.com/in/carolina-pichelli
