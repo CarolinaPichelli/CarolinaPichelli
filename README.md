@@ -6,7 +6,7 @@ Bem-vindo(a) ao meu espaço no GitHub! Sou apaixonada por tecnologia e inovaçã
 
 - **Formação:** Técnica em Desenvolvimento de Sistemas pelo programa **AMS P-TECH** na **ETEC Jorge Street**.
 - **Experiência:** Desenvolvi no último ano meu Trabalho de Conclusão de Curso (TCC) **Candi**, utilizando tecnologias como **React Native** e **Typescript**.
-- **Aprendizado Contínuo:** Recentemente concluí o curso **Python Essentials** pela Cisco, ampliando minhas habilidades em Python e me preparando para novos desafios.
+- **Aprendizado Contínuo:** Estou concluindo meu curso AMS na FATEC Antonio Russo em **Análise e Desenvolvimento de Sistemas**.
 
 Estou sempre aberta a novas oportunidades de colaboração e aprendizado. Acredito que o trabalho em equipe e a troca de conhecimentos são fundamentais para a evolução no mundo da tecnologia.
 
