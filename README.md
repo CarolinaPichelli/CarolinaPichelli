@@ -21,17 +21,11 @@ Estou sempre aberta a novas oportunidades de colaboração e aprendizado. Acredi
 
 *Sinta-se à vontade para explorar meus repositórios, deixar sugestões ou contribuir!*
 
-## Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CarolinaPichelli&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
-</div>
-
 ## Conecte-se Comigo
 
 Vamos conversar sobre tecnologia, projetos e oportunidades de colaboração!
 
-- [LinkedIn](https://br.linkedin.com/in/carolina-pichelli)
+- Linkedin: [LinkedIn](https://br.linkedin.com/in/carolina-pichelli)
 - E-mail: [carolinapichellisouza@outlook.com] 
 
 ---
