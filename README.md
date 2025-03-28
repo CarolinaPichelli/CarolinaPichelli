@@ -17,7 +17,7 @@ Estou sempre aberta a novas oportunidades de colaboração e aprendizado. Acredi
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB" alt="React Native" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" />
-</div>
+</div> <br>
 
 *Sinta-se à vontade para explorar meus repositórios, deixar sugestões ou contribuir!*
 
