@@ -21,7 +21,6 @@ Estou sempre aberta a novas oportunidades de colaboração e aprendizado. Acredi
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" alt="C#" />
 </div>
-
 <br>
 
 *Sinta-se à vontade para explorar meus repositórios, deixar sugestões ou contribuir!*
