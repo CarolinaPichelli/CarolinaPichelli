@@ -23,7 +23,7 @@ Estou sempre aberta a novas oportunidades de colaboração e aprendizado. Acredi
 </div>
 <br>
 
-*Sinta-se à vontade para explorar meus repositórios, deixar sugestões ou contribuir!*
+*Sinta-se à vontade para explorar meus repositórios!*
 
 ## Conecte-se Comigo
 
