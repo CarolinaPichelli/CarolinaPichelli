@@ -25,6 +25,15 @@ Estou sempre aberta a novas oportunidades de colaboração e aprendizado. Acredi
 
 *Sinta-se à vontade para explorar meus repositórios!*
 
+## Meus Interesses
+
+- Desenvolvimento Mobile 
+- Testes Automatizados 
+- Integração contínua / entrega contínua (CI/CD)
+- DevOps 
+- UX / Design de interface
+- Desenvolvimento **Back-end** (Java, C#, APIs REST, bancos de dados) 
+
 ## Conecte-se Comigo
 
 Vamos conversar sobre tecnologia, projetos e oportunidades de colaboração!
